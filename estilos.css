@@ -1,0 +1,10 @@
+body {
+    font-family: 'Playfair Display', serif;
+    background-color: rgb(247, 198, 214);
+    color:rgb(70, 68, 70);
+    padding: 20px;
+}
+
+h1 {
+    color:rgb(254, 60, 125)
+}
