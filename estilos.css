@@ -1,15 +1,20 @@
 body {
     font-size: 20px;
     font-family:lucida console;
-    background-color: rgb(247, 198, 214);
+    background-color: #FFF1F0;
     color:rgb(70, 68, 70);
     padding: 20px;
 }
 
 h1 {
-    color:rgb(254, 60, 125)
+    color: #8d626c
 }
 
 p {
     font-weight: bold;
+}
+
+#img-universidad {
+    width: 250px;
+    border-radius: 10px;
 }
