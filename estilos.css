@@ -19,7 +19,12 @@ p {
     border-radius: 10px;
 }
 
-#img-UTN {
+#imagen-UTN {
     width: 250px;
     border-radius: 15px;
+}
+
+nav a {
+   background: linear-gradient(to top,#eac2cb 50%, transparent 50%);
+   margin-right: 10px;
 }
