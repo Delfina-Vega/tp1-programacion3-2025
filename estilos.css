@@ -1,3 +1,5 @@
+/* Fuente y estilos para todo el bloque de codigo*/
+
 body {
     font-size: 20px;
     font-family:lucida console;
@@ -6,15 +8,20 @@ body {
     padding: 20px;
 }
 
+/* Clase de estilo para todos los titulos */
+
 .Titulos-color h1,
 .Titulos-color h3 {
     color:#8d626c;
 }
  
+/* Estilo para los parrafos*/
 
 p {
     font-weight: bold;
 }
+
+/* Estilos para las imagenes*/
 
 #img-universidad {
     width: 250px;
@@ -26,10 +33,13 @@ p {
     border-radius: 15px;
 }
 
+/* Estilo para los enlaces*/
 nav a {
    background: linear-gradient(to top,#eac2cb 50%, transparent 50%);
    margin-right: 10px;
 }
+
+/* Estilos para las listas no ordenadas*/
 
 ul {
     list-style-type: square;
@@ -37,11 +47,14 @@ ul {
     color: #555;
 }
 
+/*Estilo para la imagen*/
+
 img {
     width: 350px;
     border-radius: 15px;
 }
 
+/* Estilo para la tabla, definicion de separacion entre columnas */
 table {
     border-collapse: collapse;
     width: 100%;
