@@ -42,3 +42,19 @@ img {
     border-radius: 15px;
 }
 
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 20px;
+}
+
+th, td {
+    border:1px solid #555;
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background-color: #f9eaef;
+    color: #8d626c;
+}
